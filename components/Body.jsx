@@ -48,7 +48,7 @@ const Body = () => {
           Google Search
         </button>
 
-        <button className="body_btn">I'm feeling lucky </button>
+        <button className="body_btn">I&apos;m feeling lucky </button>
       </div>
     </form>
   );
